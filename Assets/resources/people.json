@@ -1,0 +1,59 @@
+{
+  "customers": [
+    {
+      "name": "kevin",
+      "description": "Normal looking person",
+      "amountOfTimeRequested": 1,
+      "chanceToTip": 3,
+      "changeToHaggle": 5,
+      "agressiveness": 55,
+      "openingLine": "Oh hey!",
+      "request": "I am looking for this ",
+      "ignoresYou":false
+    },
+    {
+      "name": "klaus",
+      "description": "Kinda hairy but looks safe.",
+      "amountOfTimeRequested": 4441,
+      "chanceToTip": 344,
+      "changeToHaggle": 6665,
+      "agressiveness": 55888,
+      "openingLine": "what do you want?",
+      "request": "I want to do that.",
+      "ignoresYou":false
+    },
+    {
+      "name": "pickles",
+      "description": "Has an interested look on his face.",
+      "amountOfTimeRequested": 4441,
+      "chanceToTip": 344,
+      "changeToHaggle": 6665,
+      "agressiveness": 55888,
+      "openingLine": "Just what im looking for",
+      "request": "I want to do, you know... stuff...",
+      "ignoresYou":false
+    },
+    {
+      "name": "nick",
+      "description": "Covered in tatoos and has a cross around his neck.",
+      "amountOfTimeRequested": 4441,
+      "chanceToTip": 344,
+      "changeToHaggle": 6665,
+      "agressiveness": 55888,
+      "openingLine": "Do i need to call the cops?",
+      "ignoresYou":true,
+      "request":""
+    },
+    {
+      "name": "jesse",
+      "description": "Really tall guy.",
+      "amountOfTimeRequested": 4441,
+      "chanceToTip": 344,
+      "changeToHaggle": 6665,
+      "agressiveness": 55888,
+      "openingLine": "augh you are pathetic.",
+      "ignoresYou":true,
+      "request":""
+    }
+  ]
+}
